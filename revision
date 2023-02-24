@@ -1,0 +1,2 @@
+courses = ['History','Physics','maths','Comp Sc']
+print(courses[-1])
